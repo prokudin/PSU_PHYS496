@@ -1,0 +1,2 @@
+# PSU_PHYS496
+Spring 2023 PSU PHYS 496 course
