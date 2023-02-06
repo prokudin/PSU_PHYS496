@@ -1,0 +1,9 @@
+num_of_vowels = 0
+vowels = 'aeiou'
+
+for char in s:
+  for vowel in vowels:
+    if char == vowel:
+      num_of_vowels += 1
+
+print('Number of vowels:' + str(num_of_vowels))
