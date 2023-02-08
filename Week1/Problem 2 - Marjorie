@@ -1,0 +1,11 @@
+num_of_bob = 0
+string = 'bob'
+sequence = ''     # the length of the sequence needs to be three characters 
+
+for char in s:
+    sequence += s[:3]
+    if sequence == string:
+      num_of_bob += 1
+      sequence = ''
+
+print('Number of times bob occurs is: ' + str(num_of_bob))
