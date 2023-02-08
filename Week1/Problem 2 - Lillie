@@ -1,0 +1,6 @@
+bob = 0
+length = len(s)
+for index in range(0, length - 2):
+    if s[index] == 'b' and s[index + 1] == 'o' and s[index + 2] == 'b':
+        bob += 1
+print('Number of times bob occurs is: ' + str(bob))
