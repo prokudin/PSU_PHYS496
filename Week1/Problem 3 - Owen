@@ -1,0 +1,30 @@
+Alp = 'abcdefghijklmnopqrstuvwxyz'
+count = 0
+highCount = 0
+index = 0
+subAlp = ''
+for letter in s:
+  for AlpOrd in range(index,len(Alp)):
+      if letter == Alp[AlpOrd]:
+        count += 1
+        subAlp += letter
+        break
+      if Alp[AlpOrd] == 'z':
+        if count > highCount:
+          highCount = count
+          highSubAlp = subAlp
+        subAlp = ''
+        count = 0
+        index = 0
+        for AlpOrd in range(index,len(Alp)):
+          if letter == Alp[AlpOrd]:
+            count += 1
+            subAlp += letter
+            break
+          index += 1
+        break
+      index += 1
+if count > highCount:
+  highCount = count
+  highSubAlp = subAlp
+print('Longest substring in alphabetical order is: ' + highSubAlp)
