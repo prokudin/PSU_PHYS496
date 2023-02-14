@@ -1,0 +1,9 @@
+substring_in_alphabetical_order = '' #create an empty substring to store the longest substring in alphabetical order
+start = ''  #create an empty substring to store the letter being reviewed
+
+for letter in range(len(s)-1): 
+  start += s[letter]
+  if start >= s[letter+1]:
+   substring_in_alphabetical_order += s[letter]
+
+print('Longest substring in alphabetical order is: ' +str(substring_in_alphabetical_order))
