@@ -1,0 +1,22 @@
+initialBalance = balance
+monthlyInterest = annualInterestRate / 12
+
+lowerBound = round(balance / 12, 2)
+upperBound = round(balance * (1 + monthlyInterest)**12 / 12, 2)
+
+while True:
+  middle = round((lowerBound + upperBound) / 2, 2)
+
+  for i in range(12):
+    monthlyUnpaid = balance - middle
+    balance = round(monthlyUnpaid*(1 + monthlyInterest), 2)
+
+  if middle == upperBound or middle == lowerBound or balance == 0:
+    print('Lowest Payment: ' + str(middle))
+    break
+  elif balance > 0:
+    lowerBound = middle
+  elif balance < 0:
+    upperBound = middle
+
+  balance = initialBalance
