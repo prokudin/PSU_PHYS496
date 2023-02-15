@@ -1,0 +1,14 @@
+initialBalance = balance
+monthlyInterest = annualInterestRate / 12
+fixedPayment = 10
+
+while(balance > 0 ):
+  balance = initialBalance
+
+  for i in range(12):
+    monthlyUnpaid = balance - fixedPayment
+    balance = monthlyUnpaid*(1 + monthlyInterest)
+
+  fixedPayment += 10
+
+print(fixedPayment - 10)
