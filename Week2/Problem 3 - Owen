@@ -1,0 +1,16 @@
+MIR = annualInterestRate/12 #Monthly Interest Rate
+epsilon = 0.01
+UB = balance #Unpaid Balance
+lower = balance/12
+upper = (balance * (1 + MIR)**12)/12
+while abs(UB) >= epsilon:
+  UB = balance
+  MP = (upper + lower)/2
+  for m in range(12):
+    UB = UB - MP
+    UB = UB + (MIR * UB)
+  if UB > epsilon:
+    lower = MP
+  elif UB < epsilon:
+    upper = MP
+print('Lowest Payment: ', round(MP,2))
