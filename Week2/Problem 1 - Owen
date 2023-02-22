@@ -1,0 +1,6 @@
+UB = balance #Unpaid Balance
+MIR = annualInterestRate/12 #Monthly Interest Rate
+for m in range(12):
+  UB = UB - (monthlyPaymentRate * UB)
+  UB = UB + (MIR * UB)
+print('Remaining balance: ', round(UB,2))
