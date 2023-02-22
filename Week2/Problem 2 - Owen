@@ -1,0 +1,10 @@
+MIR = annualInterestRate/12 #Monthly Interest Rate
+MP = 0 #Monthly Payment
+UB = balance
+while UB > 0:
+  UB = balance
+  for m in range(12):
+    UB = UB - MP
+    UB = UB + (MIR * UB)
+  MP += 10
+print('Lowest Payment: ', (MP - 10))
