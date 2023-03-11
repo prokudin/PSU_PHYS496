@@ -1,0 +1,20 @@
+def getGuessedWord(secretWord, lettersGuessed):
+    '''
+    secretWord: string, the word the user is guessing
+    lettersGuessed: list, what letters have been guessed so far
+    returns: string, comprised of letters and underscores that represents
+      what letters in secretWord have been guessed so far.
+    '''
+    lettersGuessedbyUser = ''
+    final_lettersGuessedbyUser = ''
+
+    for char in secretWord:
+      lettersGuessedbyUser += ' _ ' #creates spaces for each character
+
+    new_list = list(lettersGuessedbyUser)   #create a list of the underscores
+
+    for char in lettersGuessed:
+      if char in secretWord:
+        new_list.append(char)  # add the new character
+
+    return final_lettersGuessedbyUser.join(new_list)   #convert list to string for output
