@@ -1,0 +1,19 @@
+def isWordGuessed(secretWord, lettersGuessed):
+    '''
+    secretWord: string, the word the user is guessing
+    lettersGuessed: list, what letters have been guessed so far
+    returns: boolean, True if all the letters of secretWord are in lettersGuessed;
+      False otherwise
+    '''
+    guessedWord = ''
+    string_list = [guessedWord, secretWord]
+
+    for char in lettersGuessed:
+      if char in secretWord:
+        guessedWord += char
+    for i in string_list:
+      result = all(c == i[0] for c in i) #if guessedWord and secretWord contain the same characters 
+      if result:
+          return True
+      else:
+          return False
