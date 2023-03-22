@@ -1,0 +1,17 @@
+def getGuessedWord(secretWord, lettersGuessed):
+    '''
+    secretWord: string, the word the user is guessing
+    lettersGuessed: list, what letters have been guessed so far
+    returns: string, comprised of letters and underscores that represents
+      what letters in secretWord have been guessed so far.
+    # '''
+    letters = [*secretWord] #split secret word into list of characters
+    for i,j in zip(letters, range(len(letters))): #iterates through each character in letters list
+      if i in lettersGuessed: continue #if the character in letters is in lettersGuessed, move to the next character 
+      letters[j] = '_ ' #if the character is not in lettersGuessed, add a space
+
+    string = ''
+    for i in letters:
+      string += i   #converts list to string
+    
+    return string
