@@ -7,3 +7,5 @@ More helpful resources ---
 python and numpy introduction: https://github.com/ryantuckman/Machine-Learning/blob/main/python_numpy_introduction.ipynb
 example pytorch notebook: https://github.com/ryantuckman/Machine-Learning/blob/main/pytorch_example.ipynb
 another neural network in pytorch: https://github.com/ryantuckman/Machine-Learning/blob/main/simple_pytorch_deep_learning_notebook.ipynb
+
+test
