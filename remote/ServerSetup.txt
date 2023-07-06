@@ -41,9 +41,9 @@ Log into the Server
 2. Run Xming
     - Note this should run in the background, you should see an icon task bar hidden icons
 3. Run PuTTY
-    - In PuTTY Configuration; do the fallowing
+    - In PuTTY Configuration; do the following
         - In 'Session', enter 'BK-AVP-R1.bk.psu.edu' in the 'Host Name'
-        - Under 'Connection', Select the '+' next to 'SSH', Clock 'X11', than Check the box 'Enable X11 forwarding'
+        - Under 'Connection', Select the '+' next to 'SSH', Click 'X11', than Check the box 'Enable X11 forwarding'
      - Select 'Open'
 4. In the client;
 
