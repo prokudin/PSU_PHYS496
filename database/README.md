@@ -1,4 +1,5 @@
 Ref_1_0106068.pdf was added by Alexei into pdffiles and the file does not contain any table with the experimental data.
+The link in inspire is https://inspirehep.net/literature/558570
 
 # $pp\to Z/\gamma^*$, $pp\to W\to e\nu$, $pp\to W\to \mu\nu$ boson $p_T$ dependent cross sections
 
