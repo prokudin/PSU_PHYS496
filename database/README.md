@@ -43,6 +43,36 @@ The link in inspire is https://inspirehep.net/literature/913712
 Ref_15_1203.6287.pdf was added by Owen into pdffiles and the file contains tables of experimental data.
 The link in inspire is https://inspirehep.net/literature/1095241
 
+Ref_16_1501.07052.pdf was added by Owen into pdffiles. Contains tables of experimental data.
+Inspire link: https://inspirehep.net/literature/1341608
+
+Ref_17_1504.05453.pdf was added by Owen into pdffiles. Contains tables of experimental data.
+Inspire link: https://inspirehep.net/literature/1362489
+
+Ref_18_1504.02009.pdf was added by Owen into pdffiles. Contains tables of experimental data.
+Inspire link: https://inspirehep.net/literature/1358400
+
+Ref_19_1703.09442.pdf was added by Owen into pdffiles. Contains Dataset link.
+Inspire link: https://inspirehep.net/literature/1519829
+
+Ref_20_1707.03361.pdf was added by Owen into pdffiles. Does not contain any experimental data.
+Inspire link: https://inspirehep.net/literature/1609452
+
+Ref_21_1802.02739.pdf was added by Owen into pdffiles. Does not contain any experimental data.
+Inspire link: https://inspirehep.net/literature/1653939
+
+Ref_22_2109.02076.pdf was added by Owen into pdffiles. Does not contain any experimental data.
+Inspire link: https://inspirehep.net/literature/1779399
+
+Ref_23_2102.07419.pdf was added by Owen into pdffiles. Contains tables of experimental data.
+Inspire link: https://inspirehep.net/literature/1846671
+
+Ref_24_2201.03714.pdf was added by Owen into pdffiles. Contains small table of kinematic data.
+Inspire link: https://inspirehep.net/literature/2008816
+
+Ref_25_2211.11274.pdf was added by Owen into pdffiles. Does not contain any experimental data.
+Inspire link: https://inspirehep.net/literature/2513011
+
 <img width="731" alt="Screenshot 2023-07-13 at 10 18 48 AM" src="https://github.com/prokudin/PSU_PHYS496/assets/11931101/5a4b9704-af21-4a6a-8e34-9a073d5e8208">
 
 <img width="718" alt="Screenshot 2023-07-13 at 10 19 36 AM" src="https://github.com/prokudin/PSU_PHYS496/assets/11931101/5e3064ee-eb5c-45e6-be81-5ffcd5ea8489">
