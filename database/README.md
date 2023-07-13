@@ -1,6 +1,42 @@
 Ref_1_0106068.pdf was added by Alexei into pdffiles and the file does not contain any table with the experimental data.
 The link in inspire is https://inspirehep.net/literature/558570
 
+Ref_02_0107043.pdf was added by Lillie into pdffiles. Experimental data: No
+Inspire link: https://inspirehep.net/literature/560087
+
+Ref_03_0505061.pdf was added by Lillie into pdffiles. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/682849
+
+Ref_04_0605012.pdf was added by Lillie into pdffiles. Experimental data: No
+Inspire link: https://inspirehep.net/literature/715983
+
+Ref_05_0607029.pdf was added by Lillie into pdffiles. Experimental data: No
+Inspire link: https://inspirehep.net/literature/722473
+
+Ref_06_0605108.pdf was added by Lillie into pdffiles. Experimental data: Somewhat. Table I seems to coincide with Figure 4, but the other figures have no corresponding tables.
+Inspire link: https://inspirehep.net/literature/717721
+
+Ref_07_0711.4805.pdf was added by Lillie into pdffiles. Experimental data: No
+Inspire link: https://inspirehep.net/literature/769056
+
+Ref_08_0802.2499.pdf was added by Lillie into pdffiles. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/779610
+
+Ref_09_0812.2517.pdf was added by Lillie into pdffiles. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/805219
+
+Ref_10_0812.2950.pdf was added by Lillie into pdffiles. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/805390
+
+Ref_11_0907.5289.pdf was added by Lillie into pdffiles. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/827347
+
+Ref_12_0909.3587.pdf was added by Lillie into pdffiles. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/831699
+
+Ref_13_1004.0177.pdf was added by Lillie into pdffiles. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/850490
+
 Ref_14_1106.2990.pdf was added by Owen into pdffiles and the file contains tables of experimental data.
 The link in inspire is https://inspirehep.net/literature/913712
 
