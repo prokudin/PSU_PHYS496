@@ -6,6 +6,15 @@ The link in inspire is https://inspirehep.net/literature/913712
 
 Ref_15_1203.6287.pdf was added by Owen into pdffiles and the file contains tables of experimental data.
 The link in inspire is https://inspirehep.net/literature/1095241
+
+<img width="731" alt="Screenshot 2023-07-13 at 10 18 48 AM" src="https://github.com/prokudin/PSU_PHYS496/assets/11931101/5a4b9704-af21-4a6a-8e34-9a073d5e8208">
+
+<img width="718" alt="Screenshot 2023-07-13 at 10 19 36 AM" src="https://github.com/prokudin/PSU_PHYS496/assets/11931101/5e3064ee-eb5c-45e6-be81-5ffcd5ea8489">
+
+<img width="712" alt="Screenshot 2023-07-13 at 10 20 10 AM" src="https://github.com/prokudin/PSU_PHYS496/assets/11931101/bf2dcf41-8f49-480c-966c-ca57e6a7d514">
+
+
+
 # $pp\to Z/\gamma^*$, $pp\to W\to e\nu$, $pp\to W\to \mu\nu$ boson $p_T$ dependent cross sections
 
 
