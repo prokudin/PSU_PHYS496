@@ -49,7 +49,7 @@ Inspire link: https://inspirehep.net/literature/1341608
 Ref_17_1504.05453.pdf was added by Owen into pdffiles. Contains tables of experimental data.
 Inspire link: https://inspirehep.net/literature/1362489
 
-Ref_18_1504.02009.pdf was added by Owen into pdffiles. Contains tables of experimental data.
+Ref_18_1504.02009.pdf was added by Owen into pdffiles. Does not contain any experimental data.
 Inspire link: https://inspirehep.net/literature/1358400
 
 Ref_19_1703.09442.pdf was added by Owen into pdffiles. Contains Dataset link.
