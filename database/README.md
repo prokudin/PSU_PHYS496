@@ -5,7 +5,7 @@
 | index | ref                    | process | target   | obs                    | experiment               | notes             |
 | :--:  | :--:                   | :--:    | :--:     | :--:                   | :--:                     | :--:              |
 | Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{sin\Phi}$ | HERMES                   |                   |
-| Ref_2 | [link][ref2]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{sin\Phi}$ | HERMES                   |                   |
+| Ref_2 | [link][ref2]           | DVCS    | proton   | $A$  | JLab CLAS               |                   |
 
 <ins>Ref_1</ins>
 
