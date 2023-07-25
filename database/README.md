@@ -1,11 +1,9 @@
 ## DVCS data
 
-# Collections and reviews: https://www.overleaf.com/project/642a255d82fe5d47542a3dfa
-
 | index | ref                    | process | target   | obs                    | experiment               | notes             |
 | :--:  | :--:                   | :--:    | :--:     | :--:                   | :--:                     | :--:              |
 | Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{sin\Phi}$ | HERMES                   |                   |
-| Ref_2 | [link][ref2]           | DVCS    | proton   | $A$  | JLab CLAS               |                   |
+| Ref_2 | [link][ref2]           | DVCS    | proton   | $A$  | JLab CLAS JLAB-E-89-004              |                   |
 
 <ins>Ref_1</ins>
 
@@ -95,59 +93,3 @@ Inspire link: https://inspirehep.net/literature/2513011
 <img width="718" alt="Screenshot 2023-07-13 at 10 19 36 AM" src="https://github.com/prokudin/PSU_PHYS496/assets/11931101/5e3064ee-eb5c-45e6-be81-5ffcd5ea8489">
 
 <img width="712" alt="Screenshot 2023-07-13 at 10 20 10 AM" src="https://github.com/prokudin/PSU_PHYS496/assets/11931101/bf2dcf41-8f49-480c-966c-ca57e6a7d514">
-
-
-
-
-
-
-
-| index | ref                    | process | target   | obs       | experiment               | notes             |
-| :--:  | :--:                   | :--:    | :--:     | :--:      | :--:                     | :--:              |
-| 10010 | [link][ref10010-10015] | DIS     | proton   | F2        | SLAC                     | [more][com_slac]  |
-| 10011 | [link][ref10010-10015] | DIS     | deuteron | F2        | SLAC                     | [more][com_slac]  |
-| 10016 | [link][ref10016]       | DIS     | proton   | F2        | BCDMS                    | [more][com_BCDMS] |
-| 10017 | [link][ref10017]       | DIS     | deuteron | F2        | BCDMS                    | [more][com_BCDMS] |
-| 10020 | [link][ref10020]       | DIS     | proton   | F2        | NMC                      | [more][com_NMCp]  |
-| 10021 | [link][ref10021]       | DIS     | d/p      | F2        | NMC                      | [more][com_NMCdp] |
-| 10026 | [link][ref10026]       | DIS     | proton   | sigma red | HERA II NC e+ (1)        | [more][com_HERA2] |
-| 10027 | [link][ref10026]       | DIS     | proton   | sigma red | HERA II NC e+ (2)        | [more][com_HERA2] |
-| 10028 | [link][ref10026]       | DIS     | proton   | sigma red | HERA II NC e+ (3)        | [more][com_HERA2] |
-
-## JAM database (converted into xlsx from HEPDATA cvs files)
-
-
-### Observables
-
-* $\frac{1}{\sigma} \frac{d\sigma}{dp_T}$, $\frac{d\sigma}{dp_T}$
-
-### Columns:
-- RS    = $\sqrt{s}$ [GeV] 
-- value = cross section
-- _u  = uncorrelated uncertainty
-- _c  = correlated uncertainty
-
-## Data table
-
-| index | ref                | table link            | process               | obs             | experiment    | energy, $\sqrt{s}$ GeV | 
-| :--:  | :--:               | :--:                  | :--:                  | :--:            | :--:          | :--: | 
-| 10001 | [link][refCMS]     | [link][refCMStab]     | $pp\to Z/\gamma^*\to l^+l^-$          |   $\frac{1}{\sigma} \frac{d\sigma}{dp_T}$ | CMS           | 13 TeV |
-
-<ins>CMS</ins>
-
-[refCMS]: https://inspirehep.net/literature/1753680
-[refCMStab]: https://www.hepdata.net/record/ins1753680
-
-10001-10005: Figures 15 to 19. The measured normalized cross sections in bins of Z pt in |y(Z)| bins, using DRESSED level leptons. The cross sections are divided by the bin width and then the distributions are normalized to 1. Systematic uncertainties are largely reduced for the normalized cross section measurements.
-
-10006-10010: Figures 9 to 13. The measured absolute cross sections in bins of Z pt different |y(Z)| bins using DRESSED level leptons. The cross sections are normalized by the bin width.
-
-10011-10015: Auxiliary Figures 10 to 14. The measured absolute cross sections in bins of Z pt different |y(Z)| bins, using BORN level leptons. The cross sections are normalized by the bin width. The first bin (0-1 GeV) is not shown as large differences were observed in aMC@NLO and POWHEG predictions at Born level.
-
-
-10016-10020:  Auxiliary Figures 16 to 20. The measured normalized cross sections (left) in bins of Z pt in |y(Z)| bins, using BORN level leptons. The first bin (0-1 GeV) is not shown as large differences were observed in aMC@NLO and POWHEG predictions at Born level. The cross sections are divided by the bin width and then the distributions are normalized to 1.
-
-channel: Z/gamma*, 13 TeV
-
-The paper states that normalized cross sections have smaller errors. 
-
