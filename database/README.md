@@ -4,9 +4,9 @@
 
 | index | ref                    | process | target   | obs                    | experiment               | notes             |
 | :--:  | :--:                   | :--:    | :--:     | :--:                   | :--:                     | :--:              |
-| Ref_1 | [link][ref1]           | DVCS    | proton   | ALU, ALU^sinPhi        | HERMES                   |                   |
+| Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{sin\Phi}$ | HERMES                   |                   |
 
-[ref1]: [https://inspirehep.net/literature/1753680](https://inspirehep.net/literature/558570)
+[ref1]: https://inspirehep.net/literature/558570
 
 No data tabes present in the paper
 
@@ -94,21 +94,9 @@ Inspire link: https://inspirehep.net/literature/2513011
 
 
 
-# $pp\to Z/\gamma^*$, $pp\to W\to e\nu$, $pp\to W\to \mu\nu$ boson $p_T$ dependent cross sections
 
-# Example:
 
-# Unpolarized DIS
 
-## Data collections and reviews:
-* http://hepdata.cedar.ac.uk/review/f2/
-
-## Notes
-
-* Abbreviations - p: proton, n: neutron, d: deuteron, h: helium 3, t: tritium
-* All nuclear targets should be per-nucleon observables (divided by number of protons + neutrons)
-
-## tables used in current analyses
 
 | index | ref                    | process | target   | obs       | experiment               | notes             |
 | :--:  | :--:                   | :--:    | :--:     | :--:      | :--:                     | :--:              |
