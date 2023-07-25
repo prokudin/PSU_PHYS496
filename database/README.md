@@ -5,16 +5,18 @@
 | index | ref                    | process | target   | obs                    | experiment               | notes             |
 | :--:  | :--:                   | :--:    | :--:     | :--:                   | :--:                     | :--:              |
 | Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{sin\Phi}$ | HERMES                   |                   |
+| Ref_2 | [link][ref2]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{sin\Phi}$ | HERMES                   |                   |
 
+<ins> Ref_1 </ins>
 [ref1]: https://inspirehep.net/literature/558570
 
-No data tabes present in the paper
-
-
-Ref_1_0106068.pdf was added by Alexei into pdffiles and the file does not contain any table with the experimental data.
+Ref_1_0106068.pdf. Experimental data: No
 The link in inspire is https://inspirehep.net/literature/558570
 
-Ref_02_0107043.pdf was added by Lillie into pdffiles. Experimental data: No
+<ins> Ref_2 </ins>
+[ref2]: https://inspirehep.net/literature/560087
+
+Ref_02_0107043.pdf. Experimental data: No
 Inspire link: https://inspirehep.net/literature/560087
 
 Ref_03_0505061.pdf was added by Lillie into pdffiles. Experimental data: Yes
