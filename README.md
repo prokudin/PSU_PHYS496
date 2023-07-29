@@ -9,3 +9,4 @@ example pytorch notebook: https://github.com/ryantuckman/Machine-Learning/blob/m
 another neural network in pytorch: https://github.com/ryantuckman/Machine-Learning/blob/main/simple_pytorch_deep_learning_notebook.ipynb
 
 PyTorch tutorials: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
+https://www.fast.ai
