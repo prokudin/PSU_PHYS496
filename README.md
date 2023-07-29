@@ -8,4 +8,4 @@ python and numpy introduction: https://github.com/ryantuckman/Machine-Learning/b
 example pytorch notebook: https://github.com/ryantuckman/Machine-Learning/blob/main/pytorch_example.ipynb
 another neural network in pytorch: https://github.com/ryantuckman/Machine-Learning/blob/main/simple_pytorch_deep_learning_notebook.ipynb
 
-test
+PyTorch tutorials: https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
