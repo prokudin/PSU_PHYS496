@@ -36,7 +36,7 @@ Inspire link: https://inspirehep.net/literature/682849
 Ref_04_0605012.pdf. Experimental data: No
 Inspire link: https://inspirehep.net/literature/715983
 
-<ins>Ref_14<\ins>
+<ins>Ref_14</ins>
 
 [ref14]: https://inspirehep.net/literature/913712
 
