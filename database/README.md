@@ -6,6 +6,7 @@
 | Ref_2 | [link][ref2]           | DVCS    | proton   | $A$  | JLab CLAS JLAB-E-89-004              |                   |
 | Ref_3 | [link][ref3]           | DVCS    | proton   | $d\sigma/dt$, $\sigma$ | H1 | |
 | Ref_4 | [link][ref4]           | DVCS    | proton   | $A_{UL}^{\pi0}$, $A_{UL}^{exp}$, $A_{UL}$, $A_{UL}^{\sin\phi}$ | CLAS | |
+| Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
 
 <ins>Ref_1</ins>
 
@@ -34,6 +35,13 @@ Inspire link: https://inspirehep.net/literature/682849
 
 Ref_04_0605012.pdf. Experimental data: No
 Inspire link: https://inspirehep.net/literature/715983
+
+<ins>Ref_14<\ins>
+
+[ref14]: https://inspirehep.net/literature/913712
+
+Ref_14_1106.2990.pdf. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/91371
 
 Ref_05_0607029.pdf was added by Lillie into pdffiles. Experimental data: No
 Inspire link: https://inspirehep.net/literature/722473
