@@ -5,6 +5,7 @@
 | Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{\sin\phi}$ | HERMES                   |                   |
 | Ref_2 | [link][ref2]           | DVCS    | proton   | $A$  | JLab CLAS JLAB-E-89-004              |                   |
 | Ref_3 | [link][ref3]           | DVCS    | proton   | $d\sigma/dt$, $\sigma$ | H1 | |
+| Ref_4 | [link][ref4]           | DVCS    | proton   | $A_{UL}^{\pi0}$, $A_{UL}^{exp}$, $A_{UL}$, $A_{UL}^{\sin\phi}$ | CLAS | |
 
 <ins>Ref_1</ins>
 
@@ -27,7 +28,11 @@ Inspire link: https://inspirehep.net/literature/560087
 Ref_03_0505061.pdf. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/682849
 
-Ref_04_0605012.pdf was added by Lillie into pdffiles. Experimental data: No
+<ins>Ref_4</ins>
+
+[ref4]: https://inspirehep.net/literature/715983
+
+Ref_04_0605012.pdf. Experimental data: No
 Inspire link: https://inspirehep.net/literature/715983
 
 Ref_05_0607029.pdf was added by Lillie into pdffiles. Experimental data: No
