@@ -4,6 +4,7 @@
 | :--:  | :--:                   | :--:    | :--:     | :--:                   | :--:                     | :--:              |
 | Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{\sin\phi}$ | HERMES                   |                   |
 | Ref_2 | [link][ref2]           | DVCS    | proton   | $A$  | JLab CLAS JLAB-E-89-004              |                   |
+| Ref_3 | [link][ref3]           | DVCS    | proton   | $d\xF3/dt$, $\xF3$ | H1 | |
 
 <ins>Ref_1</ins>
 
@@ -19,7 +20,11 @@ The link in inspire is https://inspirehep.net/literature/558570
 Ref_02_0107043.pdf. Experimental data: No
 Inspire link: https://inspirehep.net/literature/560087
 
-Ref_03_0505061.pdf was added by Lillie into pdffiles. Experimental data: Yes
+<ins>Ref_3</ins>
+
+[ref3]: https://inspirehep.net/literature/682849
+
+Ref_03_0505061.pdf. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/682849
 
 Ref_04_0605012.pdf was added by Lillie into pdffiles. Experimental data: No
