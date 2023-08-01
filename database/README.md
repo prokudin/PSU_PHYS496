@@ -4,7 +4,7 @@
 | :--:  | :--:                   | :--:    | :--:     | :--:                   | :--:                     | :--:              |
 | Ref_1 | [link][ref1]           | DVCS    | proton   | $A_{LU}$, $A_{LU}^{\sin\phi}$ | HERMES                   |                   |
 | Ref_2 | [link][ref2]           | DVCS    | proton   | $A$  | JLab CLAS JLAB-E-89-004              |                   |
-| Ref_3 | [link][ref3]           | DVCS    | proton   | $d\xF3/dt$, $\xF3$ | H1 | |
+| Ref_3 | [link][ref3]           | DVCS    | proton   | $d\sigma/dt$, $\sigma$ | H1 | |
 
 <ins>Ref_1</ins>
 
