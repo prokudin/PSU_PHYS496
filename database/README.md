@@ -9,6 +9,8 @@
 | Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
 | Ref_15 | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES | |
 | Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
+| Ref_17 | [link][ref17] | DVCS | proton | $\frac{d\sigma}{dx_{B}dQ^{2}dtd\phi}$ | E00-110 | |
+| Ref_18 | [link][ref18] | DVCS | proton | $d\sigma$ | CLAS | |
 
 <ins>Ref_1</ins>
 
@@ -58,6 +60,20 @@ Inspire link: https://inspirehep.net/literature/1095241
 
 Ref_16_1501.07052.pdf. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/1341608
+
+<ins>Ref_17</ins>
+
+[ref17]: https://inspirehep.net/literature/1362489
+
+Ref_17_1504.05453.pdf. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/1362489
+
+<ins>Ref_18</ins>
+
+[ref18]: https://inspirehep.net/literature/1358400
+
+Ref_18_1504.02009.pdf. Experimetnal data: No
+Inspire link: https://inspirehep.net/literature/1358400
 
 Ref_05_0607029.pdf was added by Lillie into pdffiles. Experimental data: No
 Inspire link: https://inspirehep.net/literature/722473
