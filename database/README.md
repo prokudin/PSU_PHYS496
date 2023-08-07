@@ -9,7 +9,7 @@
 | Ref_5 | [link][ref5]           | DVCS    | proton   | Im \[ $C^{I} (F)$ \], Im \[ $C^{I} (F^{eff})$ \], $C (F)$, \[ $C + \Delta C$ \] ($F$), \[ $C (F^{eff})$ \]| JLAB-E-00-110 ||
 | Ref_6 | [link][ref6]           | DVCS    | proton   | $A_{C}$, $A_{C}^{\cos\phi}$ | HERMES | |
 | Ref_7 | [link][ref7]           | DVCS    | proton   | $A$ | CLAS ||
-| Ref_8 | [link][ref8]           | DVCS    | proton   | $A_{C}^{\cos(0\phi)}$ | HERMES ||
+| Ref_8 | [link][ref8]           | DVCS    | proton   | $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos\phi}$, $A_{UT, DVCS}^{\sin(\phi-\phi_{S})}$ | HERMES ||
 | Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
 | Ref_15 | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES | |
 | Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
