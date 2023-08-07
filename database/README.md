@@ -11,6 +11,8 @@
 | Ref_7 | [link][ref7]           | DVCS    | proton   | $A$ | CLAS ||
 | Ref_8 | [link][ref8]           | DVCS    | proton   | $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos\phi}$, $A_{UT, DVCS}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})}$, $A_{UT, I}^{\sin(\phi-\phi_{S})\cos\phi}$, $A_{UT, I}^{\cos(\phi-\phi_{S})\sin\phi}$ | HERMES ||
 | Ref_9 | [link][ref9]           | DVCS    | proton   | $\sigma^{\gamma *p -> \gamma p}$, $d\sigma^{\gamma *p -> \gamma p}/dt$ | ZEUS ||
+| Ref_10| [link][ref10]          | DVCS    | proton   | $A_{LU}$ | CLAS ||
+| Ref_11| [link][ref11]          | DVCS    | proton   | $\sigma_{DVCS}$, $d\sigma_{DVCS}/d\| t\|$, $A_{C}(\phi)$ | H1 ||
 | Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
 | Ref_15 | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES | |
 | Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
@@ -73,6 +75,27 @@ Inspire link: https://inspirehep.net/literature/769056
 Ref_08_0802.2499.pdf. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/779610
 
+<ins>Ref_9</ins>
+
+[ref9]: https://inspirehep.net/literature/805219
+
+Ref_09_0812.2517.pdf. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/805219
+
+<ins>Ref_10</ins>
+
+[ref10]: https://inspirehep.net/literature/805390
+
+Ref_10_0812.2950.pdf. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/805390
+
+<ins>Ref_11</ins>
+
+[ref11]: https://inspirehep.net/literature/827347
+
+Ref_11_0907.5289.pdf. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/827347
+
 <ins>Ref_14</ins>
 
 [ref14]: https://inspirehep.net/literature/913712
@@ -107,15 +130,6 @@ Inspire link: https://inspirehep.net/literature/1362489
 
 Ref_18_1504.02009.pdf. Experimetnal data: No
 Inspire link: https://inspirehep.net/literature/1358400
-
-Ref_09_0812.2517.pdf was added by Lillie into pdffiles. Experimental data: Yes
-Inspire link: https://inspirehep.net/literature/805219
-
-Ref_10_0812.2950.pdf was added by Lillie into pdffiles. Experimental data: Yes
-Inspire link: https://inspirehep.net/literature/805390
-
-Ref_11_0907.5289.pdf was added by Lillie into pdffiles. Experimental data: Yes
-Inspire link: https://inspirehep.net/literature/827347
 
 Ref_12_0909.3587.pdf was added by Lillie into pdffiles. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/831699
