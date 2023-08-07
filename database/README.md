@@ -18,6 +18,9 @@
 | Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
 | Ref_17 | [link][ref17] | DVCS | proton | $\frac{d\sigma}{dx_{B}dQ^{2}dtd\phi}$ | E00-110 | |
 | Ref_18 | [link][ref18] | DVCS | proton | $d\sigma$ | CLAS | |
+| Ref_19 | [link][ref19] | DVCS | proton | $d^{4}\sigma$ | Hall A E07-007 | |
+| Ref_20 | [link][ref20] | DVCS | $^{4}He$ | $A_{LU}$ | CLAS | |
+| Ref_21 | [link][ref21] | DVCS | proton | $d\sigma$ | COMPASS | |
 
 <ins>Ref_1</ins>
 
@@ -128,38 +131,35 @@ Inspire link: https://inspirehep.net/literature/1362489
 
 [ref18]: https://inspirehep.net/literature/1358400
 
-Ref_18_1504.02009.pdf. Experimetnal data: No
+Ref_18_1504.02009.pdf. Experimental data: No
 Inspire link: https://inspirehep.net/literature/1358400
+
+<ins>Ref_19</ins>
+
+[ref19]: https://inspirehep.net/literature/1519829
+
+Ref_19_1703.09442.pdf. Experimental data: No
+Inspire link: https://inspirehep.net/literature/1519829
+
+<ins>Ref_20</ins>
+
+[ref20]: https://inspirehep.net/literature/1609452
+
+Ref_20_1707.03361.pdf. Experimental data: No
+Inspire link: https://inspirehep.net/literature/1609452
+
+<ins>Ref_21</ins>
+
+[ref21]: https://inspirehep.net/literature/1653939
+
+Ref_21_1802.02739.pdf. Experimental data: No
+Inspire link: https://inspirehep.net/literature/1653939
 
 Ref_12_0909.3587.pdf was added by Lillie into pdffiles. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/831699
 
 Ref_13_1004.0177.pdf was added by Lillie into pdffiles. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/850490
-
-Ref_14_1106.2990.pdf was added by Owen into pdffiles and the file contains tables of experimental data.
-The link in inspire is https://inspirehep.net/literature/913712
-
-Ref_15_1203.6287.pdf was added by Owen into pdffiles and the file contains tables of experimental data.
-The link in inspire is https://inspirehep.net/literature/1095241
-
-Ref_16_1501.07052.pdf was added by Owen into pdffiles. Contains tables of experimental data.
-Inspire link: https://inspirehep.net/literature/1341608
-
-Ref_17_1504.05453.pdf was added by Owen into pdffiles. Contains tables of experimental data.
-Inspire link: https://inspirehep.net/literature/1362489
-
-Ref_18_1504.02009.pdf was added by Owen into pdffiles. Does not contain any experimental data.
-Inspire link: https://inspirehep.net/literature/1358400
-
-Ref_19_1703.09442.pdf was added by Owen into pdffiles. Contains Dataset link.
-Inspire link: https://inspirehep.net/literature/1519829
-
-Ref_20_1707.03361.pdf was added by Owen into pdffiles. Does not contain any experimental data.
-Inspire link: https://inspirehep.net/literature/1609452
-
-Ref_21_1802.02739.pdf was added by Owen into pdffiles. Does not contain any experimental data.
-Inspire link: https://inspirehep.net/literature/1653939
 
 Ref_22_2109.02076.pdf was added by Owen into pdffiles. Does not contain any experimental data.
 Inspire link: https://inspirehep.net/literature/1779399
