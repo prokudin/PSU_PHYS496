@@ -8,6 +8,8 @@
 | Ref_4 | [link][ref4]           | DVCS    | proton   | $A_{UL}^{\pi0}$, $A_{UL}^{exp}$, $A_{UL}$, $A_{UL}^{\sin\phi}$ | CLAS | |
 | Ref_5 | [link][ref5]           | DVCS    | proton   | Im \[ $C^{I} (F)$ \], Im \[ $C^{I} (F^{eff})$ \], $C (F)$, \[ $C + \Delta C$ \] ($F$), \[ $C (F^{eff})$ \]| JLAB-E-00-110 ||
 | Ref_6 | [link][ref6]           | DVCS    | proton   | $A_{C}$, $A_{C}^{\cos\phi}$ | HERMES | |
+| Ref_7 | [link][ref7]           | DVCS    | proton   | $A$ | CLAS ||
+| Ref_8 | [link][ref8]           | DVCS    | proton   | $A_{C}^{\cos(0\phi)}$ | HERMES ||
 | Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
 | Ref_15 | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES | |
 | Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
@@ -56,6 +58,13 @@ Inspire link: https://inspirehep.net/literature/722473
 Ref_06_0605108.pdf. Experimental data: Some but not all.
 Inspire link: https://inspirehep.net/literature/717721
 
+<ins>Ref_7</ins>
+
+[ref7]: https://inspirehep.net/literature/769056
+
+Ref_07_0711.4805.pdf. Experimental data: No
+Inspire link: https://inspirehep.net/literature/769056
+
 <ins>Ref_14</ins>
 
 [ref14]: https://inspirehep.net/literature/913712
@@ -90,12 +99,6 @@ Inspire link: https://inspirehep.net/literature/1362489
 
 Ref_18_1504.02009.pdf. Experimetnal data: No
 Inspire link: https://inspirehep.net/literature/1358400
-
-Ref_06_0605108.pdf was added by Lillie into pdffiles. Experimental data: Somewhat. Table I seems to coincide with Figure 4, but the other figures have no corresponding tables.
-Inspire link: https://inspirehep.net/literature/717721
-
-Ref_07_0711.4805.pdf was added by Lillie into pdffiles. Experimental data: No
-Inspire link: https://inspirehep.net/literature/769056
 
 Ref_08_0802.2499.pdf was added by Lillie into pdffiles. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/779610
