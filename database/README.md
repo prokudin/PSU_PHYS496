@@ -13,6 +13,7 @@
 | Ref_9 | [link][ref9]           | DVCS    | proton   | $\sigma^{\gamma *p -> \gamma p}$, $d\sigma^{\gamma *p -> \gamma p}/dt$ | ZEUS ||
 | Ref_10| [link][ref10]          | DVCS    | proton   | $A_{LU}$ | CLAS ||
 | Ref_11| [link][ref11]          | DVCS    | proton   | $\sigma_{DVCS}$, $d\sigma_{DVCS}/d\| t\|$, $A_{C}(\phi)$ | H1 ||
+| Ref_12| [link][ref12]          | DVCS    | proton   | $A_{LU,I}^{\sin\phi}$, $A_{LU,DVCS}^{\sin\phi}$, $A_{C}^{\cos(0\phi)}$, $A_{C}^{\cos(\phi)}$, $A_{LU,I}^{\sin(2\phi)}$, $A_{C}^{\cos(2\phi)}$, $A_{C}^{\cos(3\phi)}$ | HERMES ||
 | Ref_14 | [link][ref14]          | DVCS    | proton   | $A_{LT,I}^{cos(\phi−\phi_{s})}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,I}^{cos(\phi−\phi_{s})cos(2\phi)}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin\phi}$, $A_{LT,I}^{sin(\phi−\phi_{s})sin(2\phi)}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})}$, $A_{LT,BH+DVCS}^{cos(\phi−\phi_{s})cos\phi}$, $A_{LT,BH+DVCS}^{sin(\phi−\phi_{s})sin\phi}$ | HERMES | |
 | Ref_15 | [link][ref15] | DVCS | proton | $A_{LU,I}^{sin(n\phi)}$, $A_{LU,DVCS}^{sin\phi}$, $A_{C}^{cos(n\phi)}$ | HERMES | |
 | Ref_16 | [link][ref16] | DVCS | proton | $A_{LL}$, $A_{UL}$ | CLAS | |
@@ -103,6 +104,13 @@ Inspire link: https://inspirehep.net/literature/805390
 Ref_11_0907.5289.pdf. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/827347
 
+<ins>Ref_12</ins>
+
+[ref12]: https://inspirehep.net/literature/831699
+
+Ref_12_0909.3587.pdf. Experimental data: Yes
+Inspire link: https://inspirehep.net/literature/831699
+
 <ins>Ref_14</ins>
 
 [ref14]: https://inspirehep.net/literature/913712
@@ -188,9 +196,6 @@ Ref_25_2211.11274.pdf. Experimental data: No
 Inspire link: https://inspirehep.net/literature/2513011
 
 
-
-Ref_12_0909.3587.pdf was added by Lillie into pdffiles. Experimental data: Yes
-Inspire link: https://inspirehep.net/literature/831699
 
 Ref_13_1004.0177.pdf was added by Lillie into pdffiles. Experimental data: Yes
 Inspire link: https://inspirehep.net/literature/850490
