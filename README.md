@@ -1,5 +1,7 @@
 # PSU_PHYS496
 
+If you are interested, please, watch this video: https://psu.mediaspace.kaltura.com/media/1_edhgzj0i
+
 Pytorch neural network for Gluon Dataset: https://github.com/ryantuckman/Machine-Learning/blob/main/my_pytorch.ipynb
 Tensorflow neural network for Gluon Dataset: https://github.com/ryantuckman/Machine-Learning/blob/main/tensorflow_gluon_dataset.ipynb
 Example of GAN: https://github.com/ryantuckman/Machine-Learning/blob/main/v2-event-image-2D-W.ipynb
