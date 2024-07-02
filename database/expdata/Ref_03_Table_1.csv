@@ -1,0 +1,9 @@
+,t (GeV2),Q2 (GeV2),W (GeV),value,stat_u,syst_u,col,obs,units,target,beam,rs
+0,0.1,4,71,29.9,4.1,7.1,H1,dsigma/dt,nb/GeV2,proton,e+,
+1,0.3,4,71,8.0,1.4,1.4,H1,dsigma/dt,nb/GeV2,proton,e+,
+2,0.5,4,71,2.13,0.6,0.69,H1,dsigma/dt,nb/GeV2,proton,e+,
+3,0.8,4,71,0.27,0.12,0.14,H1,dsigma/dt,nb/GeV2,proton,e+,
+4,0.1,8,82,13.3,1.9,3.4,H1,dsigma/dt,nb/GeV2,proton,e+,
+5,0.3,8,82,3.99,0.57,0.69,H1,dsigma/dt,nb/GeV2,proton,e+,
+6,0.5,8,82,0.9,0.25,0.3,H1,dsigma/dt,nb/GeV2,proton,e+,
+7,0.8,8,82,0.36,0.09,0.14,H1,dsigma/dt,nb/GeV2,proton,e+,

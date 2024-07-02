@@ -1,0 +1,5 @@
+,t (GeV2),xB,Q2 (GeV2),value,stat_u,syst_u,col,obs,units,target,beam,rs
+0,0.08,0.06,1.2,0.15,0.148,0.008,HERMES,"A_(LT,I)^(cos(phi-phis)cos(phi))",absolute,proton,e+/e-,
+1,0.1,0.08,1.9,−0.131,0.15,0.004,HERMES,"A_(LT,I)^(cos(phi-phis)cos(phi))",absolute,proton,e+/e-,
+2,0.13,0.11,2.8,−0.261,0.184,0.017,HERMES,"A_(LT,I)^(cos(phi-phis)cos(phi))",absolute,proton,e+/e-,
+3,0.19,0.17,4.9,−0.119,0.206,0.005,HERMES,"A_(LT,I)^(cos(phi-phis)cos(phi))",absolute,proton,e+/e-,

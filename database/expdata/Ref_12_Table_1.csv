@@ -1,0 +1,5 @@
+,Amplitude,Q2 (GeV2),xB,t (GeV2),A,stat. error,syst. error,Missing mass shift,Background corr.,"Alignment, acceptance, bin width"
+0,"ALU,I_sinφ",2.37,0.09,0.12,-0.224,0.028,0.02,0.001,0.005,0.019
+1,"ALU,DVCS_sinφ",2.37,0.09,0.12,0.043,0.028,0.004,0.0,0.004,0.0
+2,AC_cos(0φ),2.37,0.09,0.12,-0.02,0.006,0.008,0.004,0.0,0.007
+3,AC_cosφ,2.37,0.09,0.12,0.055,0.009,0.004,0.001,0.001,0.003

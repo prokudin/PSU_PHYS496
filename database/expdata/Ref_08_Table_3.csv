@@ -1,0 +1,17 @@
+,x2/dof,J,bv,bs,Quality of agreement
+0,"Fac, D",0.4,1.0,1.0,4.2
+1,"Fac, D",0.4,1.0,inf,16.0
+2,"Fac, D",0.4,inf,1.0,2.3
+3,"Fac, D",0.4,inf,inf,10.5
+4,"Fac, no D",0.4,1.0,1.0,4.5
+5,"Fac, no D",0.4,1.0,inf,2.3
+6,"Fac, no D",0.4,inf,1.0,7.9
+7,"Fac, no D",0.4,inf,inf,3.3
+8,"Reg, D",0.4,1.0,1.0,22.2
+9,"Reg, D",0.4,1.0,inf,37.4
+10,"Reg, D",0.4,inf,1.0,16.5
+11,"Reg, D",0.4,inf,inf,29.2
+12,"Ref, no D",0.4,1.0,1.0,2.5
+13,"Ref, no D",0.4,1.0,inf,7.0
+14,"Ref, no D",0.4,inf,1.0,1.1
+15,"Ref, no D",0.4,inf,inf,3.8
